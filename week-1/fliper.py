@@ -1,3 +1,9 @@
+"""
+Flíper
+
+https://neps.academy/br/exercise/87
+"""
+
 def main():
     door_p, door_r = map(int, input().split())
     if door_p == 0:

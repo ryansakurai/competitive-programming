@@ -1,3 +1,9 @@
+"""
+Lâmpadas
+
+https://neps.academy/br/exercise/52
+"""
+
 lamps = {
     "A": False,
     "B": False,
