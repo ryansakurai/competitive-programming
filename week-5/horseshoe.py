@@ -5,7 +5,9 @@ https://codeforces.com/contest/228/problem/A
 """
 
 def main():
-    pass
+    horseshoe_colors = list(input().split(" "))
+    unique_colors = set(horseshoe_colors)
+    print(4 - len(unique_colors))
 
 
 if __name__=="__main__":
