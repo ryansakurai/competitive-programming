@@ -1,7 +1,7 @@
 """
-X Axis
+Decoding
 
-https://codeforces.com/contest/1986/problem/A
+https://codeforces.com/contest/746/problem/B
 """
 
 def main():

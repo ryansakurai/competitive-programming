@@ -1,7 +1,7 @@
 """
-X Axis
+Collatz Conjecture
 
-https://codeforces.com/contest/1986/problem/A
+https://codeforces.com/problemset/problem/1982/B
 """
 
 def main():

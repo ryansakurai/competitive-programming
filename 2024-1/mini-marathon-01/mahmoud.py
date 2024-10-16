@@ -1,7 +1,7 @@
 """
-X Axis
+Mahmoud and a Triangle
 
-https://codeforces.com/contest/1986/problem/A
+https://codeforces.com/contest/766/problem/B
 """
 
 def main():

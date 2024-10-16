@@ -1,7 +1,7 @@
 """
-X Axis
+Everything Nim
 
-https://codeforces.com/contest/1986/problem/A
+https://codeforces.com/contest/1966/problem/C
 """
 
 def main():

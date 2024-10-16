@@ -1,7 +1,7 @@
 """
-X Axis
+Registration system
 
-https://codeforces.com/contest/1986/problem/A
+https://codeforces.com/problemset/problem/4/C
 """
 
 def main():

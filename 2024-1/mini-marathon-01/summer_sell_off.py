@@ -1,7 +1,7 @@
 """
-X Axis
+Summer sell-off
 
-https://codeforces.com/contest/1986/problem/A
+https://codeforces.com/contest/810/problem/B
 """
 
 def main():

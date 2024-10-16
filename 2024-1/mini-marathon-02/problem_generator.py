@@ -1,7 +1,7 @@
 """
-X Axis
+Problem Generator
 
-https://codeforces.com/contest/1986/problem/A
+https://codeforces.com/contest/1980/problem/A
 """
 
 def main():

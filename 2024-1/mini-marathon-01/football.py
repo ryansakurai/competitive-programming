@@ -1,7 +1,7 @@
 """
-X Axis
+Football
 
-https://codeforces.com/contest/1986/problem/A
+https://codeforces.com/problemset/problem/96/A
 """
 
 def main():

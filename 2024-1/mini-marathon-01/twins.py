@@ -1,7 +1,7 @@
 """
-X Axis
+Twins
 
-https://codeforces.com/contest/1986/problem/A
+https://codeforces.com/problemset/problem/160/A
 """
 
 def main():

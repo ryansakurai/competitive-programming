@@ -1,7 +1,7 @@
 """
-X Axis
+Phone Desktop
 
-https://codeforces.com/contest/1986/problem/A
+https://codeforces.com/problemset/problem/1974/A
 """
 
 def main():

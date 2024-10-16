@@ -1,7 +1,7 @@
 """
-X Axis
+Presents
 
-https://codeforces.com/contest/1986/problem/A
+https://codeforces.com/contest/136/problem/A
 """
 
 def main():

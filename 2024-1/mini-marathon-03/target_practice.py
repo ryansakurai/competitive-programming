@@ -1,7 +1,7 @@
 """
-X Axis
+Target Practice
 
-https://codeforces.com/contest/1986/problem/A
+https://codeforces.com/contest/1873/problem/C
 """
 
 def main():
