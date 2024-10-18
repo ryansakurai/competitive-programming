@@ -6,7 +6,6 @@ https://codeforces.com/contest/746/problem/B
 
 def main():
     _ = input()
-
     coded_word = input()
 
     decoded_letters = []
