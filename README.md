@@ -1,4 +1,4 @@
-# Competitive Programming
+<h1 align="center"> 🏆 Competitive Programming 🏆 </h1>
 
 A repository with my solutions to competitive programming problems, mostly from Codeforces, for an extracurricular activity at my university.
 
